@@ -46,9 +46,8 @@ I'm passionate about software architecture, distributed systems, database engine
 
 ### 🤝 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Portfolio: YOUR_PORTFOLIO_URL
-- Email: YOUR_PUBLIC_EMAIL
+- LinkedIn: https://www.linkedin.com/in/%E2%80%AAabdelrazek-sayed-388237153
+ - Email: abdosayed40000@gmail.com
 
 ---
 
